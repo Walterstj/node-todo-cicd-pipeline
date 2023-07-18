@@ -38,7 +38,7 @@ The application listens on port 8000 and exports the "app" object to be used in 
 ## Getting Started
 
 ```sh
-git clone https://github.com/Chaitannyaa/node-todo-cicd.git
+git clone https://github.com/Walterstj/node-todo-cicd-pipeline.git
 ```
 ```sh
 sudo apt install nodejs
@@ -54,7 +54,7 @@ node -v
 
 1. Clone the repository
 ```sh
-git clone https://github.com/Chaitannyaa/node-todo-cicd.git
+git clone https:/github.com/Walterstj/node-todo-cicd-pipeline.git
 ```
 2. Install packages
 ```sh
@@ -82,12 +82,14 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Source code coming from [Shubham-Londhe](https://github.com/LondheShubham153/node-todo-cicd) and project source code ownership is of Shubham-Londhe.
+Source code coming from [https://github.com/Chaitannyaa/node-todo-cicd] and project source code ownership is of Shubham-Londhe.
 
 <!-- CONTACT -->
 ## Contact
 
-Chaitannyaa Gaikwad - [CRMG1996](https://www.linkedin.com/in/chaitannyaa-gaikwad-b16965115/) - My LinkedIn
-Project Link: [https://github.com/Chaitannyaa/node-todo-cicd](https://github.com/Chaitannyaa/node-todo-cicd)
+Walter SAINT JUSTE [https://www.linkedin.com/in/walter-saint-juste-5a05b7192/] - My LinkedIn 
+Project Link: [https://github.com/Walterstj/node-todo-cicd-pipeline][https://github.com/Chaitannyaa/node-todo-cicd](https://github.com/Chaitannyaa/node-todo-cicd)
+
+# https://www.digitalocean.com/community/questions/how-to-fix-docker-got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket
 
 
